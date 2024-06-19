@@ -15,8 +15,7 @@
             <h5>Price: ₾{{product.selling_price}}</h5>
             <a href="{% url 'onlineshopapp:addtocart' product.id %}" class="btn btn-info">Add To Cart</a>
             <hr>
-            <p class="text-info">Warranty: {{product.warranty}}</p>
-            <p class="text-info">Return Policy: {{product.return_policy}}</p>
+            <p>Return Policy: {{product.return_policy}}</p>
             <hr>
             <p>{{product.description}}</p>
         </div>

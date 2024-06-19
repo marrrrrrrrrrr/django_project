@@ -10,7 +10,6 @@ class Admin(models.Model):
     def __str__(self):
         return self.user.username
     
-
 class Customer(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     full_name = models.CharField(max_length=200)

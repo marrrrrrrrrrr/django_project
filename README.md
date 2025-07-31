@@ -1,5 +1,3 @@
-# 👜 TIMELESS – E-commerce Web App (Django)
-
 ### A minimal e-commerce platform for browsing and purchasing fashion accessories.
 
 ---
@@ -36,28 +34,41 @@ The application allows customers to:
 ---
 
 ### 🔐 Login Page – Secure Access for Returning Users
-![Login Page](https://i.imgur.com/nZB4HDE.png)
+![Login Page](https://imgur.com/241FIM6.png)
 
 ---
 
 ### 📝 Registration Page – Sign Up for a New Account
-![Registration Page](https://i.imgur.com/w7jICu4.png)
+![Registration Page](https://imgur.com/tHvl3Y0.png)
 
 ---
 
-## 🛒 Features
-
-- 🗂 Product categories  
-- 🔍 Product search bar  
-- 🧾 Cart with item count and pricing  
-- 🔑 Authentication system  
-- ✅ **Form input validation for login, registration, and checkout**  
-- 📋 Simple and clean UI  
-- 🛠 Admin backend via Django admin panel
+### 📂 Categories Page – Filter Items Easily
+![Categories Page](https://imgur.com/YRQfypM.png)
 
 ---
 
-## 🚀 How to Run Locally
+### 👤 My Profile – View and Manage Your Account
+![Profile Page](https://imgur.com/lkmjBmP.png)
+
+---
+
+### 🛒 View Cart – Track Selected Items
+![View Cart](https://imgur.com/H7OnyXB.png)
+
+---
+
+### 💳 Checkout Page – Finalize Your Order
+![Checkout Page](https://imgur.com/lkmjBmP.png)
+
+---
+
+### 🧾 Order Details Page – View Completed Orders
+![Order Details](https://imgur.com/1uultqB.png)
+
+---
+
+## How to Run Locally
 
 ```bash
 # Clone the repository
